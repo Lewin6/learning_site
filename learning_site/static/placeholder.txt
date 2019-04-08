@@ -1,0 +1,1 @@
+This file ensures that learning_site/static/ will be added to the project.
